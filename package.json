@@ -1,0 +1,20 @@
+﻿{
+    "scripts":  {
+                    "test:headed":  "npx playwright test --headed",
+                    "test:debug":  "npx playwright test --debug",
+                    "test":  "npx playwright test"
+                },
+    "description":  "Denovox Login Test - Playwright + Midscene",
+    "type":  "commonjs",
+    "version":  "1.0.0",
+    "author":  "",
+    "name":  "midscene",
+    "keywords":  [
+
+                 ],
+    "devDependencies":  {
+                            "@midscene/web":  "^1.9.6",
+                            "@playwright/test":  "^1.61.0"
+                        },
+    "license":  "ISC"
+}
