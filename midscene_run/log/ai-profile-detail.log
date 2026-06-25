@@ -30,3 +30,5 @@
 [2026-06-16T20:59:50.440+08:00] model usage detail: {"completion_tokens":81,"prompt_tokens":1401,"total_tokens":1482,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}
 [2026-06-16T20:59:53.627+08:00] model usage detail: {"completion_tokens":86,"prompt_tokens":1401,"total_tokens":1487,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}
 [2026-06-16T20:59:56.677+08:00] model usage detail: {"completion_tokens":55,"prompt_tokens":1386,"total_tokens":1441,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}
+[2026-06-25T15:59:26.389+08:00] model usage detail: {"completion_tokens":79,"prompt_tokens":1401,"total_tokens":1480,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}
+[2026-06-25T15:59:31.350+08:00] model usage detail: {"completion_tokens":52,"prompt_tokens":1384,"total_tokens":1436,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}

@@ -26,3 +26,4 @@
 [2026-06-16T20:50:47.518+08:00] retryable context error (attempt 1/3), retrying in 1500ms: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation
 [2026-06-16T20:53:53.327+08:00] retryable context error (attempt 1/3), retrying in 1500ms: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation
 [2026-06-16T20:56:04.547+08:00] retryable context error (attempt 1/3), retrying in 1500ms: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation
+[2026-06-25T15:59:16.323+08:00] retryable context error (attempt 1/3), retrying in 1500ms: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation

@@ -723,3 +723,48 @@
 [2026-06-16T20:59:56.756+08:00] screenshot dimensions 1280 x 720
 [2026-06-16T20:59:56.756+08:00] calculated dpr: 1
 [2026-06-16T20:59:56.756+08:00] shrunkShotToLogicalRatio 1
+[2026-06-25T15:59:16.275+08:00] Getting interface description
+[2026-06-25T15:59:16.276+08:00] Interface description end
+[2026-06-25T15:59:16.276+08:00] Uploading test info to server
+[2026-06-25T15:59:16.276+08:00] UploadTestInfoToServer end
+[2026-06-25T15:59:16.276+08:00] will get size
+[2026-06-25T15:59:17.828+08:00] Getting interface description
+[2026-06-25T15:59:17.828+08:00] Interface description end
+[2026-06-25T15:59:17.828+08:00] Uploading test info to server
+[2026-06-25T15:59:17.829+08:00] UploadTestInfoToServer end
+[2026-06-25T15:59:17.829+08:00] will get size
+[2026-06-25T15:59:17.860+08:00] size: 1280x720
+[2026-06-25T15:59:18.018+08:00] will get screenshot dimensions
+[2026-06-25T15:59:18.087+08:00] screenshot dimensions 1280 x 720
+[2026-06-25T15:59:18.087+08:00] calculated dpr: 1
+[2026-06-25T15:59:18.087+08:00] shrunkShotToLogicalRatio 1
+[2026-06-25T15:59:26.391+08:00] Getting interface description
+[2026-06-25T15:59:26.391+08:00] Interface description end
+[2026-06-25T15:59:26.391+08:00] Uploading test info to server
+[2026-06-25T15:59:26.391+08:00] UploadTestInfoToServer end
+[2026-06-25T15:59:26.391+08:00] will get size
+[2026-06-25T15:59:26.391+08:00] size: 1280x720
+[2026-06-25T15:59:26.427+08:00] will get screenshot dimensions
+[2026-06-25T15:59:26.456+08:00] screenshot dimensions 1280 x 720
+[2026-06-25T15:59:26.456+08:00] calculated dpr: 1
+[2026-06-25T15:59:26.456+08:00] shrunkShotToLogicalRatio 1
+[2026-06-25T15:59:26.481+08:00] Getting interface description
+[2026-06-25T15:59:26.481+08:00] Interface description end
+[2026-06-25T15:59:26.481+08:00] Uploading test info to server
+[2026-06-25T15:59:26.481+08:00] UploadTestInfoToServer end
+[2026-06-25T15:59:26.481+08:00] will get size
+[2026-06-25T15:59:26.481+08:00] size: 1280x720
+[2026-06-25T15:59:26.511+08:00] will get screenshot dimensions
+[2026-06-25T15:59:26.539+08:00] screenshot dimensions 1280 x 720
+[2026-06-25T15:59:26.540+08:00] calculated dpr: 1
+[2026-06-25T15:59:26.540+08:00] shrunkShotToLogicalRatio 1
+[2026-06-25T15:59:31.350+08:00] Getting interface description
+[2026-06-25T15:59:31.350+08:00] Interface description end
+[2026-06-25T15:59:31.350+08:00] Uploading test info to server
+[2026-06-25T15:59:31.350+08:00] UploadTestInfoToServer end
+[2026-06-25T15:59:31.350+08:00] will get size
+[2026-06-25T15:59:31.350+08:00] size: 1280x720
+[2026-06-25T15:59:31.394+08:00] will get screenshot dimensions
+[2026-06-25T15:59:31.427+08:00] screenshot dimensions 1280 x 720
+[2026-06-25T15:59:31.427+08:00] calculated dpr: 1
+[2026-06-25T15:59:31.427+08:00] shrunkShotToLogicalRatio 1

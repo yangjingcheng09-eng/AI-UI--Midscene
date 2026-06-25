@@ -303,3 +303,21 @@
   "StatementIsTruthy": true
 }
 </data-json>
+[2026-06-25T15:59:18.093+08:00] adapter chat completion params: {"config":{"temperature":0,"thinking":{"type":"disabled"}}}
+[2026-06-25T15:59:18.094+08:00] sending request to doubao-seed-2.0-pro
+[2026-06-25T15:59:26.390+08:00] response reasoning content: 
+[2026-06-25T15:59:26.390+08:00] response content: <thought>根据当前截图，页面左上角显示“首页”，顶部有“杨景成”的工作台入口，页面显示个人工作台的欢迎信息、会员等级等内容，符合个人工作台首页的特征，因此该陈述为真。</thought>
+<data-json>
+{
+  "StatementIsTruthy": true
+}
+</data-json>
+[2026-06-25T15:59:26.541+08:00] adapter chat completion params: {"config":{"temperature":0,"thinking":{"type":"disabled"}}}
+[2026-06-25T15:59:26.541+08:00] sending request to doubao-seed-2.0-pro
+[2026-06-25T15:59:31.350+08:00] response reasoning content: 
+[2026-06-25T15:59:31.350+08:00] response content: <thought>查看当前截图的页面右上角，可以看到存在“控制台”的文字，因此该陈述为真。</thought>
+<data-json>
+{
+  "StatementIsTruthy": true
+}
+</data-json>

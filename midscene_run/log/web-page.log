@@ -202,3 +202,14 @@
 [2026-06-16T20:59:53.731+08:00] screenshotBase64 end, cost: 36ms
 [2026-06-16T20:59:56.678+08:00] screenshotBase64 begin
 [2026-06-16T20:59:56.729+08:00] screenshotBase64 end, cost: 51ms
+[2026-06-25T15:59:16.276+08:00] evaluate function begin
+[2026-06-25T15:59:17.829+08:00] evaluate function begin
+[2026-06-25T15:59:17.859+08:00] evaluate function end
+[2026-06-25T15:59:17.860+08:00] screenshotBase64 begin
+[2026-06-25T15:59:18.017+08:00] screenshotBase64 end, cost: 157ms
+[2026-06-25T15:59:26.391+08:00] screenshotBase64 begin
+[2026-06-25T15:59:26.426+08:00] screenshotBase64 end, cost: 35ms
+[2026-06-25T15:59:26.481+08:00] screenshotBase64 begin
+[2026-06-25T15:59:26.511+08:00] screenshotBase64 end, cost: 30ms
+[2026-06-25T15:59:31.350+08:00] screenshotBase64 begin
+[2026-06-25T15:59:31.394+08:00] screenshotBase64 end, cost: 44ms
